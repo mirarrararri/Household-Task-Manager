@@ -1,4 +1,4 @@
-#Household Task Tracker
+#Household Task Manager
 household_task = [] #list for household task
 
 #to add a new task
@@ -70,5 +70,6 @@ show_menu()
             
 
             
+
 
 
