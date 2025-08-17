@@ -1,9 +1,5 @@
-# Merallyn M. Ga-as
-# BSIT 1-1
-
-#household task 
-
-household_task = [] #list for my household task
+#Household Task Tracker
+household_task = [] #list for household task
 
 #to add a new task
 def add_task():
@@ -74,4 +70,5 @@ show_menu()
             
 
             
+
 
