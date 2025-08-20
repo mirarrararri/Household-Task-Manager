@@ -1,5 +1,5 @@
 # Household-Task-Manager
-Beginner friendly Python program that organize and track household tasks. It’s also a practical helper for daily life.
+a Beginner friendly Python program that organize and track household tasks. It’s also a practical helper for daily life.
 
 Features:
 - add a new task
