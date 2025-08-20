@@ -1,6 +1,7 @@
 #Household Task Manager
 household_task = [] #list for household task
 
+#process 
 #to add a new task
 def add_task():
     task_name = input("Enter a new task : ")
@@ -33,6 +34,7 @@ def completed_task():
     except ValueError:
         print("Please enter a valid number.")
 
+#Input
 #Menu to interact with the program
 def show_menu():
     while True:
@@ -44,6 +46,7 @@ def show_menu():
 
         choice = input("Enter your choice (1-4): ")
 
+#Output
         if choice == "1":
             add_task()
         elif choice == "2":
@@ -70,6 +73,7 @@ show_menu()
             
 
             
+
 
 
 
